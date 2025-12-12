@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I’m Azeezat Adewuyi!
+Data Analyst | SQL • Power BI • Excel • Python | Telecom & Business Analytics
+I’m a results-driven Data Analyst passionate about turning raw data into insights that support business decisions.
+I currently work on telecom backend operations, ETL workflows, KPI reporting, and data process automation.
 
-<!--
-**adewuyiazeezat/adewuyiazeezat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Core Skills
 
-Here are some ideas to get you started:
+SQL • Excel (Advanced) • Power BI (Dashboards, DAX basics)
+Python (Pandas, Matplotlib)
+ETL / CDR Processing • Data Validation
+Bash scripting
+Basic front-end: JavaScript, HTML, CSS, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Projects
+Telecom Churn & Customer Segmentation Analysis
+
+Analyzed churn across charge tiers & internet services
+Calculated churn rates, customer distribution, and insights
+Built visuals and summarized findings for decision-making.
+
+Connect with me
+LinkedIn: https://www.linkedin.com/in/adewuyi-azeezat-060115233/
+GitHub: https://github.com/adewuyiazeezat
